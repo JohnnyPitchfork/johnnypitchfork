@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Jonathan Campbell
+# 👋 Hi, I’m Jon Campbell
 
 I'm transitioning from enterprise IT into software development, with a focus on C#, .NET, and automation tooling.  
 Currently finishing my AAS in Information Systems & Technology at UVU.
