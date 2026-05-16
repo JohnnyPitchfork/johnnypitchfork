@@ -61,16 +61,37 @@ Early-stage portfolio project intended to showcase development and systems work.
 
 ---
 
-## 🚀 What I’m Looking For
-- Systems Engineer / Identity Engineer roles  
-- Microsoft 365 / Cloud-focused environments  
-- Teams that value **automation, clean architecture, and scalable solutions**
+## 🚀 Interests
+- Identity Engineering & IAM
+- Microsoft 365 / Entra architecture
+- Automation-first infrastructure and operations
+- Secure, scalable enterprise systems
 
 ---
 
 ## 📫 Connect
 - LinkedIn: https://www.linkedin.com/in/jon-campbell-itadmin  
-- GitHub: You’re already here
+
+---
+
+## 🎓 Education
+**Utah Valley University (UVU)**  
+AAS in Information Systems & Technology  
+Focused on systems administration, networking, cybersecurity, and software development.
+
+Relevant coursework included:
+- Network Administration
+- Cybersecurity & Security+
+- Linux & Windows Systems Administration
+- C# / .NET Development
+- Database & API Integration
+- Cloud & Identity Technologies
+
+---
+
+## 📜 Certifications
+- CompTIA A+
+- Microsoft SC-900: Security, Compliance, and Identity Fundamentals
 
 ---
 
