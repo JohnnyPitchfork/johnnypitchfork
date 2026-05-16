@@ -23,6 +23,12 @@ Reusable PowerShell scripts for Microsoft 365, Exchange Online, and Graph automa
 
 ---
 
+### 🛡️ Entra Shared Mailbox Manager  
+https://github.com/JohnnyPitchfork/entra-shared-mailbox-manager  
+Least-privilege delegation toolkit for Microsoft 365 shared mailboxes. Replaces traditional Admin Center workflows with role-mapped self-service using Entra group membership and scoped Exchange RBAC. Includes bulk operations, delegate auditing, and SharePoint-hosted configuration. Built with WPF/.NET 8 and designed for Intune deployment.
+
+---
+
 ### 📊 DMARC Analyzer *(in progress / private)*  
 Tool for ingesting and analyzing DMARC aggregate reports (XML.GZ format), enabling structured export and visibility into email authentication and spoofing activity.
 
